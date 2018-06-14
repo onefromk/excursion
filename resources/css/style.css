@@ -1,0 +1,45 @@
+h1, h2, p, a, footer{
+font-family: Verdana;
+text-align: center;
+color: white;
+}
+
+h1 {
+font-weight: normal;
+font-size: 50px;
+}
+
+h2 {
+font-size: 42px;
+font-weight: 300;
+}
+
+body {
+background-color: black;
+}
+
+p {
+font-size: 21px;
+color: grey;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    color: Aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
+
+footer {
+    color: grey;
+    text-align: right;
+}
+
+#link-container {
+    text-align: center;
+}
